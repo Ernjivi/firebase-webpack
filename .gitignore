@@ -1,0 +1,6 @@
+*.swp
+*.swa
+
+node_modules/
+dist/
+
